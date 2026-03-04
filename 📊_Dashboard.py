@@ -16,7 +16,7 @@ Lina Satie Kobata Felippe
 ''')
 
 st.title("Dashboard — TechChallenge 5")
-st.caption("Resultado das avaliações do banco de dados..")
+st.caption("Resultado das avaliações do banco de dados de reclamações de banco.")
 st.divider()
 
 st.markdown("""
@@ -183,4 +183,5 @@ Comportamento esperado, como falado acima, devido ao desbalanceamento do *datase
 with open("outputs/metrics_deep_learning.txt", "r", encoding='latin-1') as f:
 
         st.code(f.read())
+
 
