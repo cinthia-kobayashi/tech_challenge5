@@ -1,0 +1,10 @@
+=== Random Forest ===
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.95      0.87     61467
+           1       0.58      0.21      0.31     18533
+
+    accuracy                           0.78     80000
+   macro avg       0.69      0.58      0.59     80000
+weighted avg       0.75      0.78      0.74     80000

@@ -1,0 +1,20 @@
+=== Deep Learning (Keras MLP) ===
+
+Treino (última época exibida):
+Epoch 1: acc 0.7746 | auc 0.7452 | val_auc 0.7662
+Epoch 2: acc 0.7862 | auc 0.7842 | val_auc 0.7710
+Epoch 3: acc 0.8003 | auc 0.8143 | val_auc 0.7681
+Epoch 4: acc 0.8208 | auc 0.8536 | val_auc 0.7573
+
+Resultados (teste):
+              precision    recall  f1-score   support
+
+           0       0.81      0.93      0.87     61467
+           1       0.56      0.29      0.38     18533
+
+    accuracy                           0.78     80000
+   macro avg       0.69      0.61      0.62     80000
+weighted avg       0.75      0.78      0.76     80000
+
+Accuracy: 0.7828875
+ROC-AUC: 0.7703426040412755

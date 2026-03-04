@@ -1,0 +1,76 @@
+Product,Term,Score
+credit cards,card,0.0665751452366124
+credit cards,credit,0.06405169447426177
+credit cards,account,0.06201962652490796
+credit cards,payment,0.04847619635456496
+credit cards,charge,0.040904471708300694
+credit cards,credit card,0.03387257262157653
+credit cards,bank,0.0329304123618987
+credit cards,pay,0.03164437666033956
+credit cards,report,0.029885317890581194
+credit cards,receive,0.028276714520769554
+credit cards,time,0.02672122456827399
+credit cards,tell,0.026368626392475825
+credit cards,call,0.025629635041435308
+credit cards,dispute,0.025481678980972387
+credit cards,balance,0.02526366612477302
+credit reporting,credit,0.07365796085627078
+credit reporting,report,0.07190318249018136
+credit reporting,account,0.0686420491606948
+credit reporting,information,0.04768839852786171
+credit reporting,credit report,0.04350719033178617
+credit reporting,consumer,0.04209257547809307
+credit reporting,reporting,0.03541989777724176
+credit reporting,inquiry,0.03263492544220626
+credit reporting,payment,0.030684525137358
+credit reporting,dispute,0.02975794247706479
+credit reporting,remove,0.02873347945310926
+credit reporting,section,0.027704040651932032
+credit reporting,request,0.024965237328462463
+credit reporting,item,0.024526883914708496
+credit reporting,inaccurate,0.02312278359137321
+debt collection,debt,0.07185654541366487
+debt collection,credit,0.057460146164111575
+debt collection,account,0.05740869257397762
+debt collection,report,0.05450180998602827
+debt collection,collection,0.04021938657895961
+debt collection,company,0.036815887944945266
+debt collection,call,0.03259410793704538
+debt collection,information,0.03204600979104176
+debt collection,pay,0.03147646551277653
+debt collection,credit report,0.031417541313525824
+debt collection,receive,0.028699760748639686
+debt collection,send,0.028291997531127287
+debt collection,request,0.027135370896508724
+debt collection,letter,0.02538182963524233
+debt collection,owe,0.02505810805672358
+mortgages and loans,payment,0.06682959721595517
+mortgages and loans,loan,0.0645763536012641
+mortgages and loans,pay,0.042124438834318455
+mortgages and loans,mortgage,0.039867947718834784
+mortgages and loans,account,0.03527227612409972
+mortgages and loans,credit,0.033754317814251325
+mortgages and loans,tell,0.0303262298236792
+mortgages and loans,time,0.028993213277166616
+mortgages and loans,receive,0.028554717123648772
+mortgages and loans,company,0.02800726744512556
+mortgages and loans,call,0.0272239707727778
+mortgages and loans,month,0.026177706776599082
+mortgages and loans,send,0.025984430333226744
+mortgages and loans,report,0.024186840925861958
+mortgages and loans,bank,0.02381154075790033
+retail banking,account,0.07308777534439846
+retail banking,bank,0.04986429812444128
+retail banking,money,0.039250034560104924
+retail banking,fund,0.03259896934097828
+retail banking,check,0.032188413853614
+retail banking,cash,0.029761720795898092
+retail banking,transaction,0.029718254995885002
+retail banking,app,0.028970648048402804
+retail banking,tell,0.02686089274813585
+retail banking,cash app,0.02682209662455127
+retail banking,send,0.02577745188247113
+retail banking,deposit,0.025407335934255624
+retail banking,transfer,0.02497351373331944
+retail banking,receive,0.024833326749356305
+retail banking,zelle,0.024330643695513368
