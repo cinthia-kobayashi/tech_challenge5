@@ -180,6 +180,7 @@ Comportamento esperado, como falado acima, devido ao desbalanceamento do *datase
 """)
 
 
-with open("outputs/metrics_deep_learning.txt", "r", encoding='utf-8') as f:
+with open("outputs/metrics_deep_learning.txt", "r", encoding='latin-1') as f:
 
         st.code(f.read())
+
