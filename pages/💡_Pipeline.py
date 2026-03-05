@@ -639,7 +639,7 @@ ROC-AUC: 0.7703426040412755""")
 st.divider()
 
 
-st.header("Bloco 14 — Interpretabilidade: termos associados ao target (Logistic Regression)")
+st.header("Bloco 14 — Interpretabilidade: termos associados ao target")
 st.markdown("""
 A Logistic Regression permite interpretar coeficientes:
 - coeficientes maiores → termos mais associados ao **positivo (relief)**
@@ -745,5 +745,6 @@ df_terms_preview = pd.DataFrame({
     ]
 })
 st.dataframe(df_terms_preview, use_container_width=True, hide_index=True)
+
 
 st.divider()
